@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @step2healthy. Leaving the codes here to keep them healthy and accessable.
+- Hi, I’m @step2healthy. Leaving the codes here to keep them healthy and accessable.
 - Make the design and codes worth the effort.
-- 📫 Email: shlady@163.com
+- Email: shlady@163.com
+- Offer
 
+Here I'm also trying to make a new job style. With a heart of creative, innovation, initiative working, I believe people could live on themselves regardless the gender, age or nation. If you need help or assistant for your office work, I could help on the data processing; If you need tools for your management work, I could help on the application development. 
+
+Imagining that more and more engineers working from home, people could make the ideas come true without coding. 
 
 <!---
 step2healthy/step2healthy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
