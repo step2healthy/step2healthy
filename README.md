@@ -3,7 +3,7 @@
 - Email: shlady@163.com
 - Offer
 
-Here I'm also trying to make a new job style. With a heart of creative, innovation, initiative working, I believe people could live on themselves regardless the gender, age or nation. If you need help or assistant for your office work, I could help on the data processing; If you need tools for your management work, I could help on the application development. 
+Here I'm also trying to make a new job style. With a heart of creative, innovation, initiative working, I believe people could live on themselves regardless the gender, age or nation. If someone need help or assistant for the office work, help on data processing is available; If someone need tools for the management work, solution with application development is available. 
 
 Imagining that more and more engineers working from home, people could make the ideas come true without coding. 
 
